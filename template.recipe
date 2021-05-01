@@ -1,0 +1,16 @@
+TITLE
+=====
+comma separated tags
+=====
+Description
+=====
+Ingredient list
+<num> <unit> <ingredient>
+<num> <unit> <ingredient>, process
+=====
+step 1 do blah blah blah
+
+step 2 do blah
+blah blah
+
+finally do blabitty blah
